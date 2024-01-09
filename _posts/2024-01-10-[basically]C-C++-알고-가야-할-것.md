@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [basically]C/C++ 알고 가야 할 것
+title: "[basically]C/C++ 알고 가야 할 것"
 subtitle: C와 C++의 차이점 그리고 몇가지의 특성들
 categories: C/C++
 tags: [C/C++]
