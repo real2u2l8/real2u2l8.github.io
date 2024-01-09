@@ -3,3 +3,8 @@
 .sass-cache
 _site
 Gemfile.lock
+
+
+# notion to github page
+*.zip*
+*.shell
