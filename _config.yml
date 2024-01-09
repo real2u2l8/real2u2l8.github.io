@@ -235,6 +235,8 @@ paginate: 8
 #   theme: "github-light"
 #   follow_site_theme: true
 
+future: true
+
 # Build settings
 # highlighter: none
 markdown: kramdown

@@ -4,6 +4,7 @@ title: \[basically\]C/C++ 알고 가야 할 것
 subtitle: C와 C++의 차이점 그리고 몇가지의 특성들
 categories: C/C++
 tags: [C/C++]
+published: true
 ---
 ## 1. C/C++각각의 차이
 
