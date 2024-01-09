@@ -22,5 +22,4 @@ gem "minima", "2.5.1"
 gem "nokogiri", "1.15.4"
 gem "rouge", "3.26.0"
 gem "sass", "3.7.4"
-
 gem "webrick", "~> 1.8"
