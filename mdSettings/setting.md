@@ -1,3 +1,31 @@
+## 비디오를 배너에 삽입할때
+
+``` markdown
+---
+layout: post
+title: Welcome to Jekyll!
+subtitle: A awesome static site generator.
+author: Jeffrey
+categories: jekyll
+banner:
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: jekyll theme yat
+sidebar: []
+---
+```
+## 영상을 포스트에 삽입할 때
+
+``` markdown
 ---
 layout: post
 title: Video example
@@ -41,3 +69,4 @@ In future, drivers will be able to choose whether they wish to be driven or do t
 In modern browsers, adding a video to your page is as easy as adding an image. No longer do you need to deal with special plug-ins or require crazy markup, you can do it with a single element.
 ![video](//www.html5rocks.com/en/tutorials/video/basics/devstories.webm)
 
+``` 
