@@ -238,11 +238,14 @@ paginate: 8
 future: true
 
 # Build settings
-# highlighter: none
+# highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
