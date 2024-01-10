@@ -6,12 +6,13 @@ categories: C/C++
 tags: [C/C++]
 published: true
 ---
+![c](https://i.redd.it/xxodzo30yoab1.gif)
+
+*출처 <https://www.reddit.com/r/Blockbench/comments/14twtpm/c_and_c_icons/>*
+
 ## 1. C/C++각각의 차이
-
 ---
-
 ### 무엇이 다를까?
-
 ---
 
 ```cpp
